@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="53" pref="53" max="-2" attributes="0"/>
+                      <Component id="addVehicle_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="170" pref="170" max="-2" attributes="0"/>
+                      <Component id="back_btn" min="-2" pref="106" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                      <Component id="regNum_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="51" pref="51" max="-2" attributes="0"/>
+                      <Component id="regNum_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                      <Component id="make_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="73" pref="73" max="-2" attributes="0"/>
+                      <Component id="make_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                      <Component id="model_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="67" pref="67" max="-2" attributes="0"/>
+                      <Component id="model_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="72" pref="72" max="-2" attributes="0"/>
+                      <Component id="colour_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="63" pref="63" max="-2" attributes="0"/>
+                      <Component id="colour_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="31" pref="31" max="-2" attributes="0"/>
+                      <Component id="engine_serial_no_lbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="21" pref="21" max="-2" attributes="0"/>
+                      <Component id="engine_serial_no_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="178" pref="178" max="-2" attributes="0"/>
+                      <Component id="add_btn" min="-2" pref="107" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="purchaseDate_lbl" min="-2" max="-2" attributes="0"/>
+                          <Component id="chassisNo_lbl" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="36" pref="36" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="chassisNo_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                          <Component id="purchaseDate_txt" min="-2" pref="150" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="13" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="42" pref="42" max="-2" attributes="0"/>
+                      <Component id="addVehicle_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="back_btn" min="-2" pref="46" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="55" pref="55" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="regNum_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="regNum_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="make_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="make_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="model_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="model_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="colour_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="colour_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="engine_serial_no_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="engine_serial_no_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                      <Component id="chassisNo_lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="chassisNo_txt" min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="purchaseDate_txt" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                  <Component id="purchaseDate_lbl" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+              <Component id="add_btn" min="-2" pref="46" max="-2" attributes="0"/>
+              <EmptySpace pref="50" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="addVehicle_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Add Vehicle"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="add_btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Add"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="add_btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="regNum_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Reg No."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="make_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Make"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="model_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Model"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="regNum_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle registration number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="make_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle make"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="model_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle model"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="colour_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle colour"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="colour_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Colour"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="engine_serial_no_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle engine serial number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="engine_serial_no_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Engine Serial No."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="chassisNo_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle chassis no"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="chassisNo_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Chassis No."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="back_btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Back"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="back_btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="purchaseDate_lbl">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Purchase Date"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="purchaseDate_txt">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value="Vehicle purchase date (yyyy-mm-dd)"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
